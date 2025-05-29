@@ -1,2 +1,2 @@
-.env
-keylog.txt
+*.env
+*keylog.txt
