@@ -7,6 +7,12 @@ This project is developed as part of a cybersecurity internship (Task 2) to demo
 
 ---
 
+## 📽️ Video Demonstration  
+Watch the full demo video on LinkedIn:  
+🔗 https://www.linkedin.com/posts/abin-shaji-thomas_cybersecurity-ethicalhacking-python-activity-7333709611817934851-VPYf
+
+---
+
 ## ⚠️ Legal Disclaimer
 
 > This project is strictly for **educational and ethical** research purposes.
