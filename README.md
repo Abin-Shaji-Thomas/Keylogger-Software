@@ -79,5 +79,4 @@ You're solely responsible for any actions taken using this software. Think befor
 
 > “With great power comes great responsibility.” – Uncle Ben
 
-```
 
